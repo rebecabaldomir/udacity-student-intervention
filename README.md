@@ -1,6 +1,7 @@
 # Projeto 2: Aprendizagem supervisionada
-
 ## Criando um Sistema de Intervenção para Estudantes
+#### Rebeca Andrade Baldomir
+
 ### Instalação
 Este projeto requer **Python 2.7** e as seguintes bibliotecas Python instaladas:
 
